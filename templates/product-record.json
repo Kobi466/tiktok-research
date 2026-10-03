@@ -1,0 +1,22 @@
+{
+  "_template": true,
+  "_note": "Đây là mẫu trống, không phải dữ liệu nghiên cứu.",
+  "product_id": "",
+  "product_name": "",
+  "category": "",
+  "seller_name": null,
+  "product_url": null,
+  "price_value": null,
+  "currency": null,
+  "price_observed_at": null,
+  "commission_value": null,
+  "commission_type": null,
+  "commission_source_id": null,
+  "customer_problem": null,
+  "benefits_observed": null,
+  "video_potential": null,
+  "competition_notes": null,
+  "evidence_type": "",
+  "confidence": "",
+  "limitations": null
+}

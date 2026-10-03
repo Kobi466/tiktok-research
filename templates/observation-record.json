@@ -1,0 +1,17 @@
+{
+  "_template": true,
+  "_note": "Đây là mẫu trống, không phải dữ liệu nghiên cứu.",
+  "observation_id": "",
+  "source_id": "",
+  "entity_type": "",
+  "entity_id": "",
+  "attribute": "",
+  "observed_value": "",
+  "unit": null,
+  "observed_at": "",
+  "published_at": null,
+  "evidence_excerpt": null,
+  "collection_method": "",
+  "confidence": "",
+  "limitations": null
+}

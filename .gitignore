@@ -1,0 +1,15 @@
+.venv/
+.env
+.env.*
+credentials/
+secrets/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+data/raw/private/
+*.sqlite-wal
+*.sqlite-shm
+.superpowers/
+.claude/settings.local.json
+*.local.json

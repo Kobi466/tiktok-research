@@ -1,0 +1,22 @@
+URL: https://vnreview.vn/threads/danh-gia-vacuum-5-pro-robot-hut-bui-lau-nha-cao-cap-nhat-hien-nay-cua-xiaomi-du-mon-an-choi-co-ai-biet-ne-cap-sac-day-dien-chat-thai-thu-cung.76562/
+Tiêu đề: Đánh giá Vacuum 5 Pro: robot hút bụi lau nhà cao cấp nhất hiện nay của Xiaomi, đủ món ăn chơi, có AI biết né cáp sạc, dây điện, chất thải thú cưng
+Đơn vị xuất bản: VnReview
+Tác giả: Đào Thành Đạt
+Thời điểm xuất bản: 2025-12-27T02:01:26Z
+Thời điểm truy cập: 2026-10-02T14:50:00Z
+Trạng thái truy cập: accessible
+Phương pháp thu thập: web_search_exa
+
+Trích lục nội dung:
+- Sản phẩm đánh giá: Xiaomi Robot Vacuum 5 Pro.
+- Giá niêm yết tham khảo tại Việt Nam: khoảng 20.000.000 VNĐ.
+- Tính năng quan sát:
+  + Lực hút: 20.000 Pa.
+  + Hệ thống nhận diện chướng ngại vật AI: Camera RGB kết hợp 2 camera hồng ngoại và bộ chiếu điểm hồng ngoại 3D, nhận diện và né tránh cáp sạc, dây điện, giày dép, chất thải thú cưng.
+  + Cụm cảm biến laser dToF có thể thu gọn (thò thụt) giúp giảm chiều cao thân máy khi chui gầm giường tủ.
+  + Giặt giẻ bằng nước nóng 80°C tại trạm sạc.
+  + Pin 5.200 mAh, thời gian hoạt động liên tục ~140 phút.
+- Hạn chế ghi nhận:
+  + Giao diện điều khiển sâu trên ứng dụng Xiaomi Home chưa hỗ trợ tiếng Việt hoàn chỉnh, thông báo bằng tiếng Anh.
+  + Thiếu tính năng tự động châm pha nước lau sàn.
+  + Trạm sạc màu trắng và kích thước lớn, dễ lộ vết bẩn và chiếm diện tích.

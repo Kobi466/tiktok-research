@@ -1,0 +1,13 @@
+observation_id,source_id,entity_type,entity_id,attribute,observed_value,unit,observed_at,published_at,evidence_excerpt,collection_method,confidence,limitations
+OBS-001,SRC-001,market,MKT-ECOM-2026,q1_gmv_vnd,6567200000000,VND,2026-10-02T14:00:00Z,2026-04-08T20:29:22Z,"tổng doanh số ngành Điện gia dụng trên 3 sàn TMĐT đạt 6.567,2 tỷ đồng, tăng 12% so với cùng kỳ",manual_review,high,
+OBS-002,SRC-001,platform,TIKTOK-SHOP-VN,q1_yoy_growth_rate,80,percent,2026-10-02T14:00:00Z,2026-04-08T20:29:22Z,"TikTok Shop lại ghi nhận mức tăng trưởng 80%, qua đó thu hẹp đáng kể khoảng cách với nền tảng dẫn đầu",manual_review,high,
+OBS-003,SRC-001,platform,TIKTOK-SHOP-VN,market_share_q1_2026,34.6,percent,2026-10-02T14:00:00Z,2026-04-08T20:29:22Z,"nâng thị phần từ 21,7% lên 34,6%, trở thành động lực tăng trưởng chính của ngành",manual_review,high,
+OBS-004,SRC-001,seller_segment,SHOP-MALL,gmv_share,54,percent,2026-10-02T14:00:00Z,2026-04-08T20:29:22Z,"gian hàng chính hãng (Shop Mall) chiếm 54% tổng doanh thu toàn ngành trên 3 sàn Shopee, Lazada và TikTok Shop",manual_review,high,
+OBS-005,SRC-002,category,KITCHEN-APPLIANCES,popular_price_segment,100000-200000,VND,2026-10-02T14:10:00Z,2026-09-01T00:00:00Z,phân khúc giá có doanh số cao nhất là từ 100.000₫ - 200.000₫,manual_review,high,
+OBS-006,SRC-003,policy,TIKTOK-AFF-CREATOR-REQ,min_followers,1000,followers,2026-10-02T14:20:00Z,2026-02-01T08:18:11Z,Tài khoản TikTok phải có ít nhất 1.000 followers để tự do thêm sản phẩm vào giỏ hàng cá nhân,manual_review,high,
+OBS-007,SRC-003,policy,TIKTOK-AFF-PAYMENT-CYCLE,payout_days,21-30,days,2026-10-02T14:20:00Z,2026-02-01T08:18:11Z,Tiền sẽ thực sự về túi bạn sau khoảng 21 – 30 ngày kể từ khi xác nhận,manual_review,high,
+OBS-008,SRC-004,policy,TIKTOK-SHOP-ADS-COMM,min_ratio_vs_standard,30,percent,2026-10-02T14:30:00Z,2026-06-29T00:00:00Z,Shop Ads commission trong Open Collaboration không được thấp hơn 30% Standard commission,manual_review,high,
+OBS-009,SRC-005,product,PRD-001,retail_price_vnd,15900000,VND,2026-10-02T14:40:00Z,2026-09-28T13:18:33Z,"Deebot T80 Max Omni với giá bán 15,9 triệu đồng",manual_review,high,
+OBS-010,SRC-006,product,PRD-002,retail_price_vnd,20000000,VND,2026-10-02T14:50:00Z,2025-12-27T02:01:26Z,"mức giá niêm yết khoảng 20 triệu đồng, Xiaomi Robot Vacuum 5 Pro là một đấu sĩ hạng nặng",manual_review,high,
+OBS-011,SRC-007,product,PRD-003,retail_price_vnd,24800000,VND,2026-10-02T15:00:00Z,2026-04-07T13:05:32Z,MA590XA MCU1 thì đang bán với giá là 24.8U60 (24.8 triệu),manual_review,high,
+OBS-012,SRC-007,video,VID-001,public_views,293,views,2026-10-02T15:00:00Z,2026-04-07T13:05:32Z,"Views: 293, Likes: 1, Comments: 0",manual_review,high,Chỉ số quan sát tại thời điểm truy cập; không suy đoán doanh số bán hàng.
